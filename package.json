@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/andrewome/discord-bad-words-bot#readme",
   "dependencies": {
+    "@types/better-sqlite3": "^5.4.0",
     "@types/dotenv": "^6.1.1",
     "@types/sharp": "^0.22.2",
     "axios": "^0.19.0",
+    "better-sqlite3": "^5.4.3",
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
     "fs": "0.0.1-security",
